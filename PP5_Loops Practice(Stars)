@@ -10,7 +10,7 @@ int main() {
   for (int r = 1; r <= j; r++) {
 
     for(int c = 1; c <= j; c++) {
-      cout << "X";
+      cout << "*";
     }
 
     cout << endl;
