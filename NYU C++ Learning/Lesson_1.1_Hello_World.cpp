@@ -20,6 +20,5 @@ using namespace std;
 
     cout << num1 << " + " << num2 << " = " << sum << endl;
 
-
   return 0;
   }
