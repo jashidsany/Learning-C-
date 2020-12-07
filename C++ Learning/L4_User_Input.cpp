@@ -11,6 +11,5 @@ using namespace std;
 
     cout << "Your name is " << input << endl;
 
-
   return 0;
   }
