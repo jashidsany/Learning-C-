@@ -4,8 +4,8 @@ using namespace std;
 
   int main() {
 
-    // programs inside a computer are 0s and 1s
-    // prog.cpp is a high-level language, which needs to be translated to machine language prog.exe
+    // Programs inside a computer are 0s and 1s
+    // Prog.cpp is a high-level language, which needs to be translated to machine language prog.exe
     // This program reads two integers from the user and prints their sum
 
     int num1; // will hold the first input
