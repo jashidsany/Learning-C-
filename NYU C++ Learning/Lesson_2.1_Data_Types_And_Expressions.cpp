@@ -1,5 +1,3 @@
-// Lesson 2.1: Data Types and Expressions
-
 #include <iostream>
 
 using namespace std;
