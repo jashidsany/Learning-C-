@@ -29,6 +29,5 @@ using namespace std;
     cout << "Your numbers forward:\n" << num1 << "\n" << num2 << "\n" << num3 << "\n" << endl;
     cout << "Your numbers reversed:\n" << num3 << "\n" << num2 << "\n" << num1 << endl;
 
-
   return 0;
   }
