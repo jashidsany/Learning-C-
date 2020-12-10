@@ -13,6 +13,5 @@ using namespace std;
    cin >> name;
    cout << "\nHello " << name << "!" << endl;
 
-
   return 0;
   }
