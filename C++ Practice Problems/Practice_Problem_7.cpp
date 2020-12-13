@@ -24,6 +24,5 @@ using namespace std;
     cout << x << "\t|" << y << "\t |" << "x/=x/y" << "      |" << "x=" << x/(x/y) << endl;
     cout << x << "\t|" << y << "\t |" << "x%=y" << "\t      |" << "x=" << x%y << endl;
 
-
   return 0;
   }
